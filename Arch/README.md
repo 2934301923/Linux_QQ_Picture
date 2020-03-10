@@ -3,7 +3,7 @@
 首先用文本编辑器打开配置文件
 
 ```
- sudo gedit /etc/sysctl.conf
+ sudo vim /etc/sysctl.conf
 ```
 
 在文件的末尾添加以下代码
